@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="driver"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="driver/mysql-connector-java-8.0.29.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="librerias/barcodes-7.2.1.jar"/>
+	<classpathentry kind="lib" path="librerias/commons-7.2.1.jar"/>
+	<classpathentry kind="lib" path="librerias/font-asian-7.2.1.jar"/>
+	<classpathentry kind="lib" path="librerias/forms-7.2.1.jar"/>
+	<classpathentry kind="lib" path="librerias/hyph-7.2.1.jar"/>
+	<classpathentry kind="lib" path="librerias/io-7.2.1.jar"/>
+	<classpathentry kind="lib" path="librerias/kernel-7.2.1.jar"/>
+	<classpathentry kind="lib" path="librerias/layout-7.2.1.jar"/>
+	<classpathentry kind="lib" path="librerias/pdfa-7.2.1.jar"/>
+	<classpathentry kind="lib" path="librerias/pdftest-7.2.1.jar"/>
+	<classpathentry kind="lib" path="librerias/sign-7.2.1.jar"/>
+	<classpathentry kind="lib" path="librerias/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="librerias/slf4j-nop-1.7.25.jar"/>
+	<classpathentry kind="lib" path="librerias/styled-xml-parser-7.2.1.jar"/>
+	<classpathentry kind="lib" path="librerias/svg-7.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
